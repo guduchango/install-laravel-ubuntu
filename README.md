@@ -1,4 +1,4 @@
-# install-laravel-ubuntu
+# Install laravel on ubuntu
 
 ### Install mysql server
 ```
